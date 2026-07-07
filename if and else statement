@@ -1,0 +1,15 @@
+
+class object{
+    public static void main(String args[])
+    {
+        boolean rain = false;
+        if(rain){
+            System.out.print("Take an umberlla");
+        }
+        else{
+            System.out.print("Enjoy the sunshine");
+        }
+       
+   
+    }
+}

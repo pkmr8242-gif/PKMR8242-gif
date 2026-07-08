@@ -1,0 +1,15 @@
+import java.util.Scanner;
+class object{
+    public static void main(String args[])
+    {
+      Scanner scan = new Scanner(System.in);
+      String RCB = scan.nextLine();
+      if(RCB.equals("win")){
+        System.out.print("Ee salla cup namdhey");
+      }
+      else{
+        System.out.print("cup illa");
+      }
+     
+    }
+}

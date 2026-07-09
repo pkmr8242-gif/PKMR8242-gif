@@ -1,0 +1,21 @@
+ class hello{
+    public static void main(String args[]){
+       boolean kfc = true;
+       boolean chicken = true;
+       boolean pepsi = true;
+
+        if(kfc){
+            System.out.print("Enter into kfc");
+
+
+            if(chicken){
+                System.out.print("Eating Chicken");
+
+
+                if(pepsi){
+                    System.out.print("Drinking Pepsi");
+                }
+            }
+       }
+    }
+}
